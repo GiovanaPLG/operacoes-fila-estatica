@@ -1,4 +1,5 @@
-# operacoes-fila-estatica
+# Operações na fila estática
+## Como funciona?
 Algoritmo em C que solicita um número (1, 2, 3 e 4) e dependendo da escolha do usuário realiza uma operação diferente na fila estática de tamanho 10.
 Caso a escolha selecionada seja:
 1 - um número definido pelo usuário é inserido na fila, mas caso a fila esteja cheia uma mensagem de "Fila Cheia!" aparece;
